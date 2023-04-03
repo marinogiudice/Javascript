@@ -1,0 +1,14 @@
+#square1, #square2 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+  }
+
+  #wrapper {
+    display: flex;
+    height: 400px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10%;
+  }
